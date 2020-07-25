@@ -1,0 +1,9 @@
+com\crm\qa\pages\Contact.class
+com\crm\qa\base\BaseTest.class
+com\crm\qa\pages\Signup.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\Pricing.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\testdata\LoginTest.class
+com\crm\qa\pages\Customer.class
+com\crm\qa\testdata\HomeTest.class
